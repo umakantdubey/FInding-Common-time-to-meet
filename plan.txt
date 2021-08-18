@@ -1,0 +1,9 @@
+users-
+  first name
+  last name
+  designation
+UserTimingPreferences-
+    day_start_time
+    day_end_time
+    timezone
+    
